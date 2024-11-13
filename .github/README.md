@@ -1,4 +1,4 @@
-# The WeatherMate App
+# The WeatherPulse App
 
 Welcome to WeatherPulse! Created by [Shubhanshu Kumar Yadav](https://github.com/WIZ20/WeatherPulse) in 2024, WeatherPulse is your go-to web application for staying updated with the latest weather conditions for any location! With an easy-to-use interface and real-time data, WeatherPulse ensures that you're well-prepared for the weather ahead. 
 Let's get prepared for the weather ahead 🌤️️!
