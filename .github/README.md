@@ -1,16 +1,7 @@
 # The WeatherMate App
 
-Welcome to WeatherMate! Created by [Son Nguyen](https://github.com/hoangsonww) in 2024, WeatherMate is your go-to web application for staying updated with the latest weather conditions for any location! With an easy-to-use interface and real-time data, WeatherMate ensures that you're well-prepared for the weather ahead. The mobile version is also under development, and is in the `WeatherMate-Mobile` subdirectory.
-
-At the mean time, you can use the web version [here](https://hoangsonww.github.io/WeatherMate-App/). Let's get prepared for the weather ahead 🌤️️!
-
-## User Interface
-
-<p align="center" style="cursor: pointer">
-  <a href="https://hoangsonww.github.io/WeatherMate-App/">
-    <img src="../utils/weathermateUI.png" alt="The WeatherMate App Interface" width="100%"/>
-  </a>
-</p>
+Welcome to WeatherPulse! Created by [Shubhanshu Kumar Yadav](https://github.com/WIZ20/WeatherPulse) in 2024, WeatherPulse is your go-to web application for staying updated with the latest weather conditions for any location! With an easy-to-use interface and real-time data, WeatherPulse ensures that you're well-prepared for the weather ahead. 
+Let's get prepared for the weather ahead 🌤️️!
 
 ## Features
 
@@ -25,18 +16,18 @@ At the mean time, you can use the web version [here](https://hoangsonww.github.i
 
 ## How It Works
 
-WeatherMate fetches data from the OpenWeatherMap API and our live databases, which provides comprehensive weather data that our app processes to give you the most relevant weather information.
+WeatherPulse fetches data from the OpenWeatherMap API and our live databases, which provides comprehensive weather data that our app processes to give you the most relevant weather information.
 
 ## Getting Started
 
-To get started with WeatherMate:
+To get started with WeatherPulse:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/hoangsonww/WeatherMate-App.git
+   git clone https://github.com/WIZ20/WeatherPulse.git
    ```
    ```bash
-   cd WeatherMate
+   cd WeatherPulse
    ```
 
 2. **Install Dependencies**
@@ -90,18 +81,12 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](../LICENSE) for more information.
-
 ## Contact
 
-Son Nguyen - [@hoangsonww](https://github.com/hoangsonww)
+Shubhanshu Kumar Yadav - [@WIZ20](https://github.com/WIZ20)
 
-Project Link: [https://github.com/hoangsonww/WeatherMate-App](https://github.com/hoangsonww/WeatherMate-App)
-
-App's URL: [https://hoangsonww.github.io/WeatherMate-App/](https://hoangsonww.github.io/WeatherMate-App/)
+Project Link: [https://github.com/WIZ20/WeatherPulse](https://github.com/WIZ20/WeatherPulse.git)
 
 ---
 
-Created with ❤️ in 2024 by [Son Nguyen](https://github.com/hoangsonww). Thank you for using WeatherMate! 🌤️
+Created with ❤️ in 2024 by [Shubhanshu Kumar Yadav](https://github.com/WIZ20). Thank you for using WeatherPulse! 🌤️
